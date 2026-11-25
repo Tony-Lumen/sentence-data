@@ -251,7 +251,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 75588	暗闇の中、俺は遠ざかる後姿に必死に手を伸ばす。	{暗闇|くらやみ}の{中|なか}、{俺|おれ}は{遠|とお}ざかる{後姿|うしろすがた}に{必死|ひっし}に{手|て}を{伸|の}ばす。	mookeee	328130	In the darkness, I frantically reach out towards the receding figure.		practice	
 75589	部活のかけもち、大変だと思うけどがんばれよ。		bunbuku	328129	I'm sure it's tough taking part in the activities of two clubs, but good luck!		original of a rewrite	
 75608	わたしが食べさせますから・・・はい、アーンして。	わたしが{食|た}べさせますから・・・はい、アーンして。	mookeee	328110	I'll feed it to you so ... here, open wide.		practice	
-75628	ザ・ベストテンにランクインした曲を全て紹介します！		wakatyann630	328090	We introduce you to the entire line up of songs that made it into The Best Ten.	papabear	original of a rewrite	
 75629	ようやく辿りついたスキー場・・・雪が雨に変わっていた。	ようやく{辿|たど}りついたスキー{場|じょう}・・・{雪|ゆき}が{雨|あめ}に{変|か}わっていた。	mookeee	328089	We finally arrived at the ski hill... the snow had turned into rain.		practice	
 75636	がばっと気合を入れて身を起こした。	がばっと{気合|きあい}を{入|い}れて{身|み}を{起|お}こした。	wakatyann630	328082	I sprang out of bed.	CM	practice	
 75640	このパンって賞味期限大丈夫か？	このパンって{賞味|しょうみ}{期限|きげん}{大丈夫|だいじょうぶ}か？	bunbuku	328078	Is this bread's best-by OK?		practice	
@@ -1078,7 +1077,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 81748	僕は本気で言ってるんだ。	{僕|ぼく}は{本気|ほんき}で{言|い}ってるんだ。	small_snow	321966	I mean what I'm saying.	CK	practice	
 81754	僕は片時も君から目を離さない。		bunbuku	321960	I'll be watching you.	CK	original of a rewrite	
 81764	僕は父の顔を正確には覚えていない。	{僕|ぼく}は{父|ちち}の{顔|かお}を{正確|せいかく}には{覚|おぼ}えていない。	KK_kaku_	321951	I don't remember my father's face accurately.		practice	
-81783	僕は彼女の言ったことが理解できないよ。		bunbuku	261260	I can't make out what she said.	CK	original of a rewrite	
 81792	僕は彼の言葉を信用できない。		wakatyann630	321923	I can't trust in his word.	pierrephi	original of a rewrite	
 81794	僕は彼のような奴を尊敬したくない。	{僕|ぼく}は{彼|かれ}のような{奴|やつ}を{尊敬|そんけい}したくない。		321921	I don't want to respect a man like him.	Dejo	practice	
 81804	僕は髪の毛を短く刈ってもらいたかった。	{僕|ぼく}は{髪|かみ}の{毛|け}を{短|みじか}く{刈|か}ってもらいたかった。	bunbuku	321911	I wanted my hair cut short.	CK	practice	
@@ -1527,7 +1525,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 84759	父は９時に帰宅した。		bunbuku	318955	My father came home at nine.	CK	original of a rewrite	
 84799	父の髪は白くなってきた。	{父|ちち}の{髪|かみ}は{白|しろ}くなってきた。	bunbuku	318916	My father's hair has grown white.	CK	practice	
 84829	父と母は木の下に座っていました。	{父|ちち}と{母|はは}は{木|き}の{下|した}に{座|すわ}っていました。	bunbuku	318885	My father and mother were sitting under a tree.	CM	practice	
-84841	父が僕の古い時計を修理してくれた。		bunbuku	318873	My father repaired my old watch.	CK	original of a rewrite	
 84844	父が亡くなってから３年になります。	{父|ちち}が{亡|な}くなってから{３|さん}{年|ねん}になります。	small_snow	318870	My father has been dead for three years.	CK	practice	
 84848	父が病気だったので、私は家にいなければならなかった。	{父|ちち}が{病気|びょうき}だったので、{私|わたし}は{家|いえ}にいなければならなかった。	KK_kaku_	318866	My father being sick, I had to stay home.	CM	practice	
 84850	父が戦争の体験談を語ってくれた。	{父|ちち}が{戦争|せんそう}の{体験|たいけん}{談|だん}を{語|かた}ってくれた。	bunbuku	318864	My father told me about his experiences during the war.	furagwa	practice	
@@ -3200,7 +3197,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 102962	彼は善悪の区別が付かない。	{彼|かれ}は{善悪|ぜんあく}の{区別|くべつ}が{付|つ}かない。	mookeee	284864	He can't tell right from wrong.	CK	practice	
 102990	彼が選挙で勝利を収めるのは明らかだ。	{彼|かれ}が{選挙|せんきょ}で{勝利|しょうり}を{収|おさ}めるのは{明|あき}らかだ。		283967	It is apparent that he will win the election.	CM	practice	
 103012	彼は戦後に莫大な財産を築いた。	{彼|かれ}は{戦後|せんご}に{莫大|ばくだい}な{財産|ざいさん}を{築|きず}いた。	bunbuku		He amassed a huge fortune after the war.		practice	new English
-103014	彼は川を泳いで渡った。		bunbuku	291092	He swam across the river.	CK	original of a rewrite	
 103020	彼は川に沿って歩いた。	{彼|かれ}は{川|かわ}に{沿|そ}って{歩|ある}いた。	bunbuku	300673	He walked along the river.	CK	practice	
 103022	彼は川で泳いでいます。	{彼|かれ}は{川|かわ}で{泳|およ}いでいます。	bunbuku	300671	He is swimming in the river.	CK	practice	
 103023	彼は川でおぼれた。	{彼|かれ}は{川|かわ}でおぼれた。	bunbuku	300670	He drowned in the river.	CK	practice	
@@ -7478,7 +7474,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 156744	私は昨日大きな魚を釣った。	{私|わたし}は{昨日|きのう}{大|おお}きな{魚|さかな}を{釣|つ}った。	bunbuku	257790	I caught a big fish yesterday.	CK	practice	
 156752	私は昨日自転車を修理してもらった。		bunbuku	257782	I had my bicycle fixed yesterday.	CK	original of a rewrite	
 156774	昨日学校に遅れました。	{昨日|きのう}{学校|がっこう}に{遅|おく}れました。	small_snow	257760	I was late for school yesterday.	CK	practice	
-156781	私は昨日一日中寝ていた。		bunbuku	257753	I was in bed all day long yesterday.	CK	original of a rewrite	
 156782	昨日レポートを提出したんだ。		bunbuku	257752	I turned in a paper yesterday.	CK	original of a rewrite	
 156807	私は昨日それを終えたいと思っていたのだが。	{私|わたし}は{昨日|きのう}それを{終|お}えたいと{思|おも}っていたのだが。		257727	I hoped to have finished it yesterday.		practice	
 156809	昨日はその車を修理したんだ。	{昨日|きのう}はその{車|くるま}を{修理|しゅうり}したんだ。	bunbuku	257724	I fixed the car yesterday.	CK	practice	
@@ -11342,7 +11337,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 196067	ボブのお父さんは女子校で教えています。	ボブのお{父|とう}さんは{女子|じょし}{校|こう}で{教|おし}えています。	small_snow	33243	Bob's father teaches at a girls' school.	CN	practice	
 196077	ボブが来るまで私たちは始めません。	ボブが{来|く}るまで{私|わたし}たちは{始|はじ}めません。		33253	We won't start till Bob comes.	CN	practice	
 196086	ボブがきたら会議を始めます。		small_snow	33254	We will begin the meeting when Bob comes.	CN	original of a rewrite	
-196091	ボブ、このスーツケースを居間まで運ぶのを手伝って。		small_snow	33267	Bob, help me carry his suitcase to the living room.	CP	original of a rewrite	
 196104	ほとんど働けなかった。	ほとんど{働|はたら}けなかった。		33276	I was barely able to work.	CK	practice	
 196118	ほとんど紙が残っていません。	ほとんど{紙|かみ}が{残|のこ}っていません。	bunbuku	33294	There's very little paper left.	CK	practice	
 196123	ほとんど雨は降っていない。	ほとんど{雨|あめ}は{降|ふ}っていない。	small_snow	33299	It is hardly raining.	CM	practice	
@@ -11885,7 +11879,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 201485	どうして家を手放したの？	どうして{家|いえ}を{手放|てばな}したの？	KK_kaku_	38695	Why did you part with your house?	CM	practice	
 201489	どうしてリストから私の名前を外したのかしら。	どうしてリストから{私|わたし}の{名前|なまえ}を{外|はず}したのかしら。	bunbuku	38699	I wonder why they left my name off the list.	CK	practice	
 201494	どうしても忘れられない。	どうしても{忘|わす}れられない。	KK_kaku_	12019688	I just can't get it out of my head.	Winter	practice	
-201497	どうしても彼女の住所が思い出せないんだよ。		bunbuku	38707	I can't for the life of me remember her address.	CK	original of a rewrite	
 201504	どうしても治したいのです。	どうしても{治|なお}したいのです。		38715	I want to get rid of it.	CK	practice	
 201510	どうしても私の言葉を彼に信じさせる事が出来なかった。	どうしても{私|わたし}の{言葉|ことば}を{彼|かれ}に{信|しん}じさせる{事|こと}が{出来|でき}なかった。		38720	I could never make him believe what I said.	CK	practice	
 201512	どうしてもやり方が思い出せないんだ。	どうしてもやり{方|かた}が{思|おも}い{出|だ}せないんだ。	bunbuku	38722	I can't recollect how to do it.		practice	
@@ -13276,7 +13269,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 217057	ご注文を承りましょうか。	ご{注文|ちゅうもん}を{承|うけたまわ}りましょうか。	KK_kaku_	54364	May I take your order?	adjusting	practice	
 217069	ご忠告に従います。	ご{忠告|ちゅうこく}に{従|したが}います。	bunbuku	16987	I'll act on your advice.	CK	practice	
 217070	ご忠告に従って行動します。	ご{忠告|ちゅうこく}に{従|したが}って{行動|こうどう}します。	bunbuku	16987	I'll act on your advice.	CK	practice	
-217071	ご忠告どおりいたします。		bunbuku	54378	I'll do as you advise.	CK	original of a rewrite	
 217074	ご多幸を祈ります。	ご{多幸|たこう}を{祈|いの}ります。	tommy__san	54381	May you be happy!	Miktsoanit	practice	
 217090	ご成功をお祝い申し上げます。		bunbuku	54398	Let me congratulate you on your success.	CK	original of a rewrite	
 217110	ご親切に感謝しております。	ご{親切|しんせつ}に{感謝|かんしゃ}しております。	bunbuku	54417	I appreciate your kindness.	CK	practice	
@@ -13633,7 +13625,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 221124	この症状はいつまで続くのですか。	この{症状|しょうじょう}はいつまで{続|つづ}くのですか。	KK_kaku_	58446	For how long will I continue to have these symptoms?	jjbraam	practice	
 221148	この小説は米国の作家によって書かれた。	この{小説|しょうせつ}は{米国|べいこく}の{作家|さっか}によって{書|か}かれた。	KK_kaku_	58470	This novel was written by an American writer.	CK	practice	
 221161	この小説は英語から訳されました。	この{小説|しょうせつ}は{英語|えいご}から{訳|やく}されました。		58482	This novel was translated from English.	CK	practice	
-221170	この小説は、百年前の日本人のありのままの生活を描いている。		bunbuku	58492	This novel describes the life of the Japanese as it was a hundred years ago.	CK	original of a rewrite	
 221188	この商売は儲かりません。	この{商売|しょうばい}は{儲|もう}かりません。	bunbuku	58511	There isn't much money in this business.	CM	practice	
 221199	この書類を写すとき一語もおとさないように気をつけなさい。	この{書類|しょるい}を{写|うつ}すとき{一|いち}{語|ご}もおとさないように{気|き}をつけなさい。		58521	In copying this paper, be careful not to leave out any words.		practice	
 221236	この銃には弾が入っていません。	この{銃|じゅう}には{弾|たま}が{入|はい}っていません。	bunbuku	58559	This gun is out of bullets.	CM	practice	
@@ -17273,7 +17264,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 2492837	トムは来年100歳を迎える。	トムは{来年|らいねん}{100|ひゃく}{歳|さい}を{迎|むか}える。	tommy_san	2609643	Tom will be a hundred years old next year.	WestofEden	practice	
 2494080	トムは新しい携帯を見せびらかした。	トムは{新|あたら}しい{携帯|けいたい}を{見|み}せびらかした。	tommy_san	2592647	Tom showed off his new mobile phone.	WestofEden	practice	
 2499125	トムとメアリーは新年会で知り合った。		tommy_san	1398190	Tom and Mary met at a New Year's party.	Spamster	original of a rewrite	
-2499127	メアリーは万引きをして捕まった。		tommy_san	1397757	Mary was arrested for shoplifting.	Spamster	original of a rewrite	
 2499129	オリヴァーはにきびに悩んでいる。	オリヴァーはにきびに{悩|なや}んでいる。	tommy_san	1397730	Oliver has an acne problem.	Spamster	practice	
 2499135	トムは気を失っている。	トムは{気|き}を{失|うしな}っている。	tommy_san		Tom is unconscious.		practice	new English
 2499143	メアリーは強烈な個性の持ち主だ。		tommy_san	1400435	Mary has a strong personality.	Spamster	original of a rewrite	
@@ -17554,7 +17544,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 2739681	トムはメアリーと別れてからアリスと付き合い始めた。	トムはメアリーと{別|わか}れてからアリスと{付|つ}き{合|あ}い{始|はじ}めた。	tommy_san	2419490	After Tom broke up with Mary, he started dating Alice.	CK	practice	
 2739684	トムのこと怖いの？	トムのこと{怖|こわ}いの？	tommy_san	1495861	Are you afraid of Tom?	CK	practice	
 2739767	トムが辞めるって聞いた？		tommy_san	1103748	Did you hear about Tom's resignation?	CK	original of a rewrite	
-2739769	お前がトムを殺したのか？		tommy_san	1886145	Did you kill Tom?	CK	original of a rewrite	
 2739802	ショパンでも弾いてよ。	ショパンでも{弾|ひ}いてよ。	tommy_san	10209020	How about playing some Chopin?	dnjst	practice	
 2740604	雨の日は読書がはかどる。	{雨|あめ}の{日|ひ}は{読書|どくしょ}がはかどる。	tommy_san	7910886	I get on with my reading on rainy days.	User83551	practice	
 2740701	トムには知らせるべきだと思う？	トムには{知|し}らせるべきだと{思|おも}う？	tommy_san	1096252	Do you think I should tell Tom?	CK	practice	
@@ -18083,7 +18072,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 3450181	トムが遅刻するのもいたしかたなかった。	トムが{遅刻|ちこく}するのもいたしかたなかった。	arnab		It couldn't be helped that Tom was late.		practice	new English
 3450190	トムは額に包帯を巻いていた。	トムは{額|ひたい}に{包帯|ほうたい}を{巻|ま}いていた。	arnab	2956818	Tom had a bandage on his forehead.	CK	practice	
 3450194	トムは就寝中に唸った。	トムは{就寝|しゅうしん}{中|ちゅう}に{唸|うな}った。	arnab	2956815	Tom groaned in his sleep.	CK	practice	
-3450197	トムは小さな町で育った。		arnab	2956814	Tom grew up in a small town.	CK	original of a rewrite	
 3450199	トムは熱烈なキスでメアリーを出迎えた。	トムは{熱烈|ねつれつ}なキスでメアリーを{出迎|でむか}えた。	arnab	2956813	Tom greeted Mary with a passionate kiss.	CK	practice	
 3450231	彼が間違いを犯すのではないかと私は案じている。	{彼|かれ}が{間違|まちが}いを{犯|おか}すのではないかと{私|わたし}は{案|あん}じている。	arnab	283815	I am afraid he will make a mistake.	CK	practice	
 3450340	ボブも車を運転できる。	ボブも{車|くるま}を{運転|うんてん}できる。	arnab	33153	Bob can drive a car, too.	CN	practice	
@@ -19819,7 +19807,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 8637336	知りたくないかも。	{知|し}りたくないかも。	small_snow	2012714	Maybe I don't want to know.	CK	practice	
 8637343	トムは弓矢で魚を捕るのが好きだ。	トムは{弓矢|ゆみや}で{魚|さかな}を{捕|と}るのが{好|す}きだ。	small_snow	8637339	Tom likes to catch fish with a bow and arrow.	Eccles17	practice	
 8637349	花はもうすぐ咲くよ。		small_snow	1776157	The flowers will soon blossom.	Objectivesea	original of a rewrite	
-8637393	トムは胃がまだ痛いって言っているよ。		small_snow	6260458	Tom says his stomach still hurts.	CK	original of a rewrite	
 8637415	ここに来て座りなさい。	ここに{来|き}て{座|すわ}りなさい。	small_snow	1860747	Come here and sit down.	CK	practice	
 8637439	自分の限界を試したい。	{自分|じぶん}の{限界|げんかい}を{試|ため}したい。	small_snow	1723963	I want to test my limits.	Spamster	practice	
 8637473	私たちは図書館でトムを30分待ったけど、彼は現れなかった。		small_snow	4012213	We waited for Tom at the library for thirty minutes, but he never showed up.	CK	original of a rewrite	
@@ -21082,7 +21069,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 9250636	トムは田舎で暮らしたいんだ。		small_snow	2821250	Tom wants to live in the country.	CK	original of a rewrite	
 9250653	トムはフランス語を習いたくないんだ。	トムはフランス{語|ご}を{習|なら}いたくないんだ。	small_snow	2821257	Tom doesn't want to learn French.	CK	practice	
 9250673	トムがお前に伝えたのか？	トムがお{前|まえ}に{伝|つた}えたのか？	small_snow	2261197	Did Tom tell you?	CK	practice	
-9250720	話したいけど、話せないの。		small_snow	3201877	I'd like to tell you, but I can't.	CK	original of a rewrite	
 9250740	確かに難問だね。	{確|たし}かに{難問|なんもん}だね。	small_snow	10196137	It's certainly a difficult question.	terrywallwork	practice	
 9250747	何も感じないよ。		small_snow	2271841	I don't feel anything.	CK	original of a rewrite	
 9250748	なんも感じない。		small_snow	2271841	I don't feel anything.	CK	original of a rewrite	
@@ -24392,7 +24378,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 10996800	あなたから言い出すとは思いもしなかったよ。	あなたから{言|い}い{出|だ}すとは{思|おも}いもしなかったよ。	small_snow	12331487	That's a surprise coming from you.	pip	practice	
 10996852	中途半端に見えてしまい微妙だ。		small_snow	11244331	I don't know, it looks unfinished.	pip	original of a rewrite	
 10996853	準備が整ったらさっそく実践だ。	{準備|じゅんび}が{整|ととの}ったらさっそく{実践|じっせん}だ。	small_snow	11290409	When preparations are completed, it will be carried out at once.	pip	practice	
-10996884	ここを押すと、音が大きくなります。		small_snow	10996988	Press here to make the sound louder.	CK	original of a rewrite	
 10996902	変なメールが届いていた。	{変|へん}なメールが{届|とど}いていた。	bunbuku	12018733	I received a strange email.	Winter	practice	
 10996931	みんな言葉を失っていた。	みんな{言葉|ことば}を{失|うしな}っていた。	bunbuku	2245464	Everyone was speechless.	CK	practice	
 10999802	もっと、寛容になるべきだ。	もっと、{寛容|かんよう}になるべきだ。	small_snow	13800733	You ought to be more tolerant.	terrywallwork	practice	
@@ -25614,7 +25599,6 @@ ja_id	ja_text	ja_furigana	ja_author	en_id	en_text	en_author	use	changes
 11648650	リビングを掃除してと頼んだはずよ。	リビングを{掃除|そうじ}してと{頼|たの}んだはずよ。	small_snow	7111927	I thought I asked you to clean the living room.	CK	practice	
 11650233	トムは私の助けを望んでいなかった。	トムは{私|わたし}の{助|たす}けを{望|のぞ}んでいなかった。	bunbuku	4889747	Tom didn't want my help.	CK	practice	
 11650258	トムは僕のことを嫌っているようだった。	トムは{僕|ぼく}のことを{嫌|きら}っているようだった。	bunbuku	6356842	Tom seemed to hate me.	CK	practice	
-11651972	僕たち、数年前にヨーロッパで出会ったんだ。		bunbuku	247809	We met in Europe a few years ago.	CK	original of a rewrite	
 11652308	すでにあなたの名前はリストから外しました。	すでにあなたの{名前|なまえ}はリストから{外|はず}しました。	bunbuku	3442282	We've already taken your name off the list.	CK	practice	
 11655068	必ずシートベルトを締めること。	{必|かなら}ずシートベルトを{締|し}めること。	bunbuku	10506424	Always fasten your seatbelt.	CK	practice	
 11655388	トムはあなたの仕事に感銘を受けていたと思いますよ。	トムはあなたの{仕事|しごと}に{感銘|かんめい}を{受|う}けていたと{思|おも}いますよ。	bunbuku	7969554	I think Tom was impressed with your work.	CK	practice	

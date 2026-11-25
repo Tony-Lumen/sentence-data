@@ -1,0 +1,142 @@
+ja_text	ja_furigana	en_text	dialogue_id	utterance_id	changes
+お役に立てたのであれば幸いです。	お{役|やく}に{立|た}てたのであれば{幸|さいわ}いです。	I'm glad if I was able to help.	10	21	
+タクシーで移動しようかな。	タクシーで{移動|いどう}しようかな。	Maybe I'll get around by taxi.	23	8	
+ほかに何か、お役に立てることはございますか？	ほかに{何|なに}か、お{役|やく}に{立|た}てることはございますか？	Is there anything else I can help you with?	39	11	
+値段帯としては、普通、となっております。	{値段帯|ねだんたい}としては、{普通|ふつう}、となっております。	The price range is average.	52	13	
+タクシーでキャッシュレスで支払えるところを探してください。	タクシーでキャッシュレスで{支払|しはら}えるところを{探|さが}してください。	Please find a taxi company where I can pay cashless.	59	18	
+あとで電話したいので、番号を教えてもらえますか？	あとで{電話|でんわ}したいので、{番号|ばんごう}を{教|おし}えてもらえますか？	I want to call later, so could you tell me the number?	60	4	
+名前を読み上げてもよろしいでしょうか？	{名前|なまえ}を{読|よ}み{上|あ}げてもよろしいでしょうか？	May I read out the names?	68	1	
+それでは、そちらを予約しようと思います。	それでは、そちらを{予約|よやく}しようと{思|おも}います。	Then I think I'll book that one.	83	8	
+それなら予約できますでしょうか？	それなら{予約|よやく}できますでしょうか？	In that case, can I book it?	90	10	
+店名を読み上げてもよろしいでしょうか？	{店名|てんめい}を{読|よ}み{上|あ}げてもよろしいでしょうか？	May I read out the names of the shops?	96	3	
+予約番号を申し上げてよろしいですか？	{予約|よやく}{番号|ばんごう}を{申|もう}し{上|あ}げてよろしいですか？	May I tell you the reservation number?	96	25	
+読み上げますが、よろしいでしょうか？	{読|よ}み{上|あ}げますが、よろしいでしょうか？	I'll read it out to you; is that all right?	99	7	
+その条件では予約できませんでした。	その{条件|じょうけん}では{予約|よやく}できませんでした。	I couldn't book it under those conditions.	102	7	
+その条件ですと予約できませんでした。	その{条件|じょうけん}ですと{予約|よやく}できませんでした。	With those conditions, I couldn't make the booking.	113	17	
+キャッシュレスで払えるなら、そこにします。	キャッシュレスで{払|はら}えるなら、そこにします。	If I can pay cashless, I'll go with that one.	128	12	
+まず泊まるところを決めたいんです。	まず{泊|と}まるところを{決|き}めたいんです。	First, I want to decide where to stay.	131	2	
+もしだめならジャンボが使えるところを教えてください。	もしだめならジャンボが{使|つか}えるところを{教|おし}えてください。	If that's no good, please tell me somewhere with jumbo taxis.	134	2	
+そこで予約します。	そこで{予約|よやく}します。	I'll make a reservation there.	143	8	
+その条件ですと案内できるところがございません。	その{条件|じょうけん}ですと{案内|あんない}できるところがございません。	With those conditions, there's no place I can recommend.	156	19	
+そこで予約したいです。	そこで{予約|よやく}したいです。	I'd like to make a reservation there.	157	10	
+そこは、キャッシュレスで払えますか？	そこは、キャッシュレスで{払|はら}えますか？	Can I pay cashless there?	168	20	
+その条件ですと、予約できませんでした。	その{条件|じょうけん}ですと、{予約|よやく}できませんでした。	With those conditions, I wasn't able to book it.	176	11	
+当日ジャンボタクシーを利用したいと考えています。	{当日|とうじつ}ジャンボタクシーを{利用|りよう}したいと{考|かんが}えています。	I'm thinking I'd like to use a jumbo taxi that day.	182	6	
+その条件ですと、ご案内できる場所がございません。	その{条件|じょうけん}ですと、ご{案内|あんない}できる{場所|ばしょ}がございません。	With those conditions, there's no place I can recommend.	188	15	
+その条件ですと、ご案内できる施設がありません。	その{条件|じょうけん}ですと、ご{案内|あんない}できる{施設|しせつ}がありません。	With those conditions, there are no facilities I can suggest.	189	3	
+こちらに伺おうと思います。	こちらに{伺|うかが}おうと{思|おも}います。	I think I'll pay a visit there.	192	6	
+観光で、アートギャラリーに寄りたいんです。	{観光|かんこう}で、アートギャラリーに{寄|よ}りたいんです。	For sightseeing, I want to stop by an art gallery.	211	32	
+駐車場についてや料金情報については不明で、判りかねます。	{駐車場|ちゅうしゃじょう}についてや{料金|りょうきん}{情報|じょうほう}については{不明|ふめい}で、{判|わか}りかねます。	Parking and prices are unclear, so I can't tell you.	259	3	
+東京旅行中に観光できる場所も探したいです。	{東京|とうきょう}{旅行|りょこう}{中|ちゅう}に{観光|かんこう}できる{場所|ばしょ}も{探|さが}したいです。	I'd also like to look for sightseeing spots during my Tokyo trip.	289	8	
+東京で食事できる場所を教えて下さい。	{東京|とうきょう}で{食事|しょくじ}できる{場所|ばしょ}を{教|おし}えて{下|くだ}さい。	Please tell me places where I can eat in Tokyo.	291	0	
+大阪に旅行しようと考えています。	{大阪|おおさか}に{旅行|りょこう}しようと{考|かんが}えています。	I'm thinking of taking a trip to Osaka.	313	0	
+那覇でタクシーを利用したいんです。	{那覇|なは}でタクシーを{利用|りよう}したいんです。	I want to use a taxi in Naha.	315	6	
+何日のお天気を調べましょうか？	{何日|なんにち}のお{天気|てんき}を{調|しら}べましょうか？	For which day shall I check the weather?	338	7	
+そちらに伺いたいと思います。	そちらに{伺|うかが}いたいと{思|おも}います。	I think I'd like to visit there.	395	14	
+そこを予約したいです。	そこを{予約|よやく}したいです。	I'd like to book that place.	413	6	
+そこに伺いたいと思います。	そこに{伺|うかが}いたいと{思|おも}います。	I think I'd like to visit that place.	426	4	
+当日の天候を調べたいです。	{当日|とうじつ}の{天候|てんこう}を{調|しら}べたいです。	I'd like to check the weather for that day.	443	28	
+詳しい宿泊料金などは不明でご案内できず、申し訳ございません。	{詳|くわ}しい{宿泊|しゅくはく}{料金|りょうきん}などは{不明|ふめい}でご{案内|あんない}できず、{申|もう}し{訳|わけ}ございません。	Detailed room rates are unclear, so I'm sorry I can't tell you.	452	5	
+ジャンボタクシーを利用したいです。	ジャンボタクシーを{利用|りよう}したいです。	I'd like to use a jumbo taxi.	453	10	
+ではそちらで予約したいです。	ではそちらで{予約|よやく}したいです。	Then I'd like to make a reservation there.	453	14	
+では、最寄り駅は諦めます。	では、{最寄|もよ}り{駅|えき}は{諦|あきら}めます。	Then I'll give up on the nearest station.	516	4	
+百貨店や総合スーパーで探せますか？	{百貨店|ひゃっかてん}や{総合|そうごう}スーパーで{探|さが}せますか？	Can you search among department stores and supermarkets?	531	4	
+それでは、ジャンルは問わないです。	それでは、ジャンルは{問|と}わないです。	In that case, I don't mind what genre it is.	550	4	
+西区にはご紹介できる飲食店がございません。	{西区|にしく}にはご{紹介|しょうかい}できる{飲食店|いんしょくてん}がございません。	There are no restaurants in Nishi Ward that I can introduce to you.	567	5	
+ではそちらを予約してください。	ではそちらを{予約|よやく}してください。	Then please book that place.	581	6	
+ジャンボタクシーを利用したいです！	ジャンボタクシーを{利用|りよう}したいです！	I'd like to use a jumbo taxi!	586	4	
+では、予算は無視してください。	では、{予算|よさん}は{無視|むし}してください。	Then please ignore the budget.	616	12	
+そちらに伺おうと思います。	そちらに{伺|うかが}おうと{思|おも}います。	I think I'll pay a visit there.	640	4	
+当日の食事できる場所でのおすすめはありますか？	{当日|とうじつ}の{食事|しょくじ}できる{場所|ばしょ}でのおすすめはありますか？	Do you have any recommended places where we can eat on the day?	644	10	
+そこに決めたいと思います。	そこに{決|き}めたいと{思|おも}います。	I think I want to decide on that place.	657	8	
+調べたかったことは以上です。	{調|しら}べたかったことは{以上|いじょう}です。	That's all I wanted to look up.	693	10	
+調べたいことは以上です。	{調|しら}べたいことは{以上|いじょう}です。	That's all I wanted to look up.	696	14	
+その条件ではご紹介できません。	その{条件|じょうけん}ではご{紹介|しょうかい}できません。	I can't introduce anything with those conditions.	701	9	
+ではそちらのホテルを予約してください。	ではそちらのホテルを{予約|よやく}してください。	Then please book that hotel.	704	8	
+では、そちらで決めたいと思います。	では、そちらで{決|き}めたいと{思|おも}います。	Then I think I want to decide on that one.	820	10	
+そちらのタクシー会社、予約できますか？	そちらのタクシー{会社|がいしゃ}、{予約|よやく}できますか？	Can I make a booking with that taxi company?	827	10	
+当日の天候も調べたいです。	{当日|とうじつ}の{天候|てんこう}も{調|しら}べたいです。	I'd also like to check the weather for that day.	880	4	
+定休日は、店舗によって異なります。	{定休日|ていきゅうび}は、{店舗|てんぽ}によって{異|こと}なります。	Regular closing days differ from store to store.	894	15	
+予算はこだわらなければありますか？	{予算|よさん}はこだわらなければありますか？	If I'm not particular about the budget, are there any?	904	2	
+値段は、明確な料金の記載はないようです。	{値段|ねだん}は、{明確|めいかく}な{料金|りょうきん}の{記載|きさい}はないようです。	As for price, there seems to be no clear listing of rates.	932	7	
+旅行中、タクシーで移動したいと考えています。	{旅行中|りょこうちゅう}、タクシーで{移動|いどう}したいと{考|かんが}えています。	During the trip, I'm thinking I'd like to get around by taxi.	936	8	
+入場料も大人子供共に不明で、詳細はわかりかねます。	{入場料|にゅうじょうりょう}も{大人|おとな}{子供|こども}{共|とも}に{不明|ふめい}で、{詳細|しょうさい}はわかりかねます。	The admission fee for adults and children is also unclear, so I can't say.	967	7	
+では、そのまま予約に移りたいのですが、よろしいでしょうか？	では、そのまま{予約|よやく}に{移|うつ}りたいのですが、よろしいでしょうか？	Then I'd like to go straight to booking; would that be okay?	974	4	
+このまま予約に移りたいのですが、よろしいでしょうか？	このまま{予約|よやく}に{移|うつ}りたいのですが、よろしいでしょうか？	I'd like to move on to booking now; would that be okay?	975	12	
+承知しました、質問は以上です。	{承知|しょうち}しました、{質問|しつもん}は{以上|いじょう}です。	Understood. That's all my questions.	977	36	
+ありがとうございます、これで全て確認できました。	ありがとうございます、これで{全|すべ}て{確認|かくにん}できました。	Thank you, I was able to confirm everything.	980	22	
+以上で宜しかったでしょうか。	{以上|いじょう}で{宜|よろ}しかったでしょうか。	Was that everything you needed?	1027	9	
+その条件ではご紹介できないのですが、いかが致しましょう？	その{条件|じょうけん}ではご{紹介|しょうかい}できないのですが、いかが{致|いた}しましょう？	I can't introduce anything with those conditions. What shall we do?	1112	1	
+その条件ではご案内できないのですが、いかが致しましょう？	その{条件|じょうけん}ではご{案内|あんない}できないのですが、いかが{致|いた}しましょう？	I can't suggest anything with those conditions. What would you like to do?	1116	1	
+この条件ではご案内できません。	この{条件|じょうけん}ではご{案内|あんない}できません。	I can't suggest anything with these conditions.	1129	1	
+じゃぁ、地区は台東区に限らなくて大丈夫です！	じゃぁ、{地区|ちく}は{台東区|たいとうく}に{限|かぎ}らなくて{大丈夫|だいじょうぶ}です！	Then the area doesn't have to be limited to Taito Ward!	1152	12	
+申し訳ありません、その条件ではご案内できません。	{申|もう}し{訳|わけ}ありません、その{条件|じょうけん}ではご{案内|あんない}できません。	I'm sorry, I can't suggest anything with those conditions.	1191	3	
+では、予約に移りたいのですが、よろしいでしょうか？	では、{予約|よやく}に{移|うつ}りたいのですが、よろしいでしょうか？	Then I'd like to move on to booking; would that be okay?	1199	12	
+ではジャンボタクシーの条件を除いてください。	ではジャンボタクシーの{条件|じょうけん}を{除|のぞ}いてください。	Then please remove the jumbo taxi condition.	1274	8	
+金額的にはどれくらいで食事できますか？	{金額|きんがく}{的|てき}にはどれくらいで{食事|しょくじ}できますか？	About how much money can I eat there for?	1276	16	
+名古屋の緑区でよろしかったでしょうか？	{名古屋|なごや}の{緑区|みどりく}でよろしかったでしょうか？	Was it Midori Ward in Nagoya that you meant?	1408	7	
+では最寄り駅の希望は無くしてください。	では{最寄|もよ}り{駅|えき}の{希望|きぼう}は{無|な}くしてください。	Then please drop the nearest-station requirement.	1462	4	
+では、宿のタイプをリゾートホテルに変えてください。	では、{宿|やど}のタイプをリゾートホテルに{変|か}えてください。	Then please change the lodging type to a resort hotel.	1488	2	
+レストランが併設されている施設を探しましょうか？	レストランが{併設|へいせつ}されている{施設|しせつ}を{探|さが}しましょうか？	Shall I look for a place with a restaurant on site?	1495	3	
+では予算の条件を除いてください。	では{予算|よさん}の{条件|じょうけん}を{除|のぞ}いてください。	Then please remove the budget condition.	1496	2	
+その条件ではご案内できません。	その{条件|じょうけん}ではご{案内|あんない}できません。	I can't suggest anything with those conditions.	1503	1	
+この条件ではご紹介できません。	この{条件|じょうけん}ではご{紹介|しょうかい}できません。	I can't introduce anything with these conditions.	1506	7	
+それでは、場所はこだわらなくて構いません。	それでは、{場所|ばしょ}はこだわらなくて{構|かま}いません。	In that case, I don't mind not being particular about the location.	1516	18	
+札幌旅行を計画したいのですが。	{札幌|さっぽろ}{旅行|りょこう}を{計画|けいかく}したいのですが。	I'd like to plan a trip to Sapporo.	1555	0	
+仙台に旅行を計画したいのですが。	{仙台|せんだい}に{旅行|りょこう}を{計画|けいかく}したいのですが。	I'd like to plan a trip to Sendai.	1562	0	
+承知しました、こちらでもう少し調べてみます。	{承知|しょうち}しました、こちらでもう{少|すこ}し{調|しら}べてみます。	Understood. I'll look into it a bit more on my end.	1582	12	
+少し遠いですね、では当日タクシーで移動しようと思います。	{少|すこ}し{遠|とお}いですね、では{当日|とうじつ}タクシーで{移動|いどう}しようと{思|おも}います。	It's a bit far, so I think I'll go by taxi on the day.	1585	12	
+横浜への旅行を計画していまして、観光について相談したいです。	{横浜|よこはま}への{旅行|りょこう}を{計画|けいかく}していまして、{観光|かんこう}について{相談|そうだん}したいです。	I'm planning a trip to Yokohama and want to consult about sights.	1588	0	
+他のお店も探しましょうか？	{他|ほか}のお{店|みせ}も{探|さが}しましょうか？	Shall I look for other shops too?	1621	5	
+そのエリアではご紹介できません。	そのエリアではご{紹介|しょうかい}できません。	I can't introduce anything in that area.	1650	9	
+じゃあ、最寄り駅にこだわらなければありますか？	じゃあ、{最寄|もよ}り{駅|えき}にこだわらなければありますか？	Then, are there any if I'm not particular about the nearest station?	1661	4	
+では、レストラン併設の条件を除いてください。	では、レストラン{併設|へいせつ}の{条件|じょうけん}を{除|のぞ}いてください。	Then please remove the on-site restaurant condition.	1745	2	
+その時間なら予約できました。	その{時間|じかん}なら{予約|よやく}できました。	At that time, I was able to make the reservation.	1748	15	
+食料品ジャンルのお店でよろしかったでしょうか？	{食料品|しょくりょうひん}ジャンルのお{店|みせ}でよろしかったでしょうか？	Was a grocery store what you wanted?	1796	9	
+では、そちらを利用しようかと思います。	では、そちらを{利用|りよう}しようかと{思|おも}います。	Then I think I'll use that one.	1879	14	
+予約も頼めますか。	{予約|よやく}も{頼|たの}めますか。	Can I ask for a reservation too?	1928	10	
+日本科学未来館を訪ねたいと思います。	{日本|にっぽん}{科学|かがく}{未来|みらい}{館|かん}を{訪|たず}ねたいと{思|おも}います。	I think I'd like to visit the Miraikan science museum.	1949	20	
+京都の何をご案内すればよろしいでしょうか？	{京都|きょうと}の{何|なに}をご{案内|あんない}すればよろしいでしょうか？	What in Kyoto should I tell you about?	1967	1	
+その点だけ確認したかったので、あとはもう大丈夫です。	その{点|てん}だけ{確認|かくにん}したかったので、あとはもう{大丈夫|だいじょうぶ}です。	I only wanted to check that point, so I'm fine otherwise.	1978	8	
+希望のジャンルはホテルレストランでよろしかったですか？	{希望|きぼう}のジャンルはホテルレストランでよろしかったですか？	Was a hotel restaurant the type you wanted?	2047	1	
+エリアは南区に指定されなくてよろしかったですか？	エリアは{南区|みなみく}に{指定|してい}されなくてよろしかったですか？	Was it all right for you not to limit the area to Minami Ward?	2085	23	
+これで尋ねたいことは以上です。	これで{尋|たず}ねたいことは{以上|いじょう}です。	That's all I wanted to ask.	2161	8	
+那覇に旅行を計画したいのですが。	{那覇|なは}に{旅行|りょこう}を{計画|けいかく}したいのですが。	I'd like to plan a trip to Naha.	2229	0	
+全て聞けたので、こちらで終わりでいいです。	{全|すべ}て{聞|き}けたので、こちらで{終|お}わりでいいです。	I was able to ask everything, so we can finish here.	2244	6	
+その条件なら予約できました。	その{条件|じょうけん}なら{予約|よやく}できました。	With those conditions, I was able to make the reservation.	2265	15	
+予算を言っていませんでした。	{予算|よさん}を{言|い}っていませんでした。	I hadn't told you my budget.	2803	12	
+その条件で予約できました。	その{条件|じょうけん}で{予約|よやく}できました。	I was able to book it under those conditions.	2893	15	
+では、予算は普通くらいまで引き上げることにします。	では、{予算|よさん}は{普通|ふつう}くらいまで{引|ひ}き{上|あ}げることにします。	Then I'll raise my budget to about average.	2895	4	
+早良区で買い物したいのですが、良いお店ありますか？	{早良区|さわらく}で{買|か}い{物|もの}したいのですが、{良|よ}いお{店|みせ}ありますか？	I'd like to shop in Sawara Ward; are there any good stores?	2908	0	
+ジャンボタクシーは利用できないんですね。	ジャンボタクシーは{利用|りよう}できないんですね。	So jumbo taxis can't be used, then.	2939	12	
+大変申し訳ありません、中区の指定を抜かしてしまいました。	{大変|たいへん}{申|もう}し{訳|わけ}ありません、{中区|なかく}の{指定|してい}を{抜|ぬ}かしてしまいました。	I'm very sorry, I left out the Naka Ward condition.	3088	3	
+予算が普通であれば何処でもいいです。	{予算|よさん}が{普通|ふつう}であれば{何処|どこ}でもいいです。	If the budget is moderate, anywhere is fine.	3141	2	
+キャッシュレスで支払えるか、電話番号も教えてください。	キャッシュレスで{支払|しはら}えるか、{電話|でんわ}{番号|ばんごう}も{教|おし}えてください。	Please tell me if I can pay cashless, and the phone number too.	3223	16	
+ご紹介できるお店がございません。	ご{紹介|しょうかい}できるお{店|みせ}がございません。	There are no shops I can introduce to you.	3349	3	
+竜馬通り商店街がご紹介できます。	{竜馬|りょうま}{通|どお}り{商店街|しょうてんがい}がご{紹介|しょうかい}できます。	I can introduce you to Ryoma-dori Shopping Street.	3361	3	
+頂きました条件でのご予約が用意できませんでした。	{頂|いただ}きました{条件|じょうけん}でのご{予約|よやく}が{用意|ようい}できませんでした。	We couldn't arrange a booking with the conditions you gave.	3371	5	
+予算は普通なので、それに沿ったお店をお願いします。	{予算|よさん}は{普通|ふつう}なので、それに{沿|そ}ったお{店|みせ}をお{願|ねが}いします。	My budget is moderate, so please find a place that fits it.	3449	2	
+無料の駐車場があるお店は発見できませんでした。	{無料|むりょう}の{駐車場|ちゅうしゃじょう}があるお{店|みせ}は{発見|はっけん}できませんでした。	I couldn't find any shops with free parking.	3458	3	
+全て解決しました。	{全|すべ}て{解決|かいけつ}しました。	Everything has been resolved.	3470	10	
+ではキャッシュレス払いにこだわらなくても大丈夫です。	ではキャッシュレス{払|ばら}いにこだわらなくても{大丈夫|だいじょうぶ}です。	Then it's fine not to insist on cashless payment.	3472	8	
+北四番丁駅から近くなくてもいいです。	{北四番丁|きたよばんちょう}{駅|えき}から{近|ちか}くなくてもいいです。	It doesn't have to be near Kita-Yonbancho Station.	3524	12	
+では富沢駅から近くなくてもいいです。	では{富沢|とみざわ}{駅|えき}から{近|ちか}くなくてもいいです。	Then it doesn't have to be near Tomizawa Station.	3537	2	
+頂いている条件で該当がございませんでした。	{頂|いただ}いている{条件|じょうけん}で{該当|がいとう}がございませんでした。	There were no matches for the conditions you gave us.	3619	1	
+では最寄り駅を北新横浜駅に絞らなくても大丈夫です。	では{最寄|もよ}り{駅|えき}を{北新横浜駅|きたしんよこはまえき}に{絞|しぼ}らなくても{大丈夫|だいじょうぶ}です。	Then you don't need to limit the nearest station to Kita-Shin-Yokohama.	3623	2	
+ジャンルにこだわらなければどうですか？	ジャンルにこだわらなければどうですか？	How about if I'm not particular about the genre?	3741	2	
+旅行の計画を立てたいのですが、場所は福岡になります。	{旅行|りょこう}の{計画|けいかく}を{立|た}てたいのですが、{場所|ばしょ}は{福岡|ふくおか}になります。	I'd like to plan a trip, and the destination will be Fukuoka.	3748	0	
+他に予約できるところはありますか？	{他|ほか}に{予約|よやく}できるところはありますか？	Is there anywhere else I can book?	3886	8	
+じゃあ、烏丸御池駅に近くなくてもいいです。	じゃあ、{烏丸御池|からすまおいけ}{駅|えき}に{近|ちか}くなくてもいいです。	Then it doesn't have to be near Karasuma Oike Station.	3959	6	
+駅と商店街で絞りますと、該当がございませんでした。	{駅|えき}と{商店街|しょうてんがい}で{絞|しぼ}りますと、{該当|がいとう}がございませんでした。	When I narrow it down by station and shopping street, there were no matches.	4058	3	
+ではジャンルは絞らなくてもいいです。	ではジャンルは{絞|しぼ}らなくてもいいです。	Then you don't have to narrow down the genre.	4184	8	
+ご希望に沿った宿泊施設は見つかりませんでした。	ご{希望|きぼう}に{沿|そ}った{宿泊|しゅくはく}{施設|しせつ}は{見|み}つかりませんでした。	We found no lodging that matched your wishes.	4230	1	
+では、予算は安めのところで探せますか？	では、{予算|よさん}は{安|やす}めのところで{探|さが}せますか？	Then, can you search for places with a low budget?	4293	2	
+では、当日の天気も調べたいです。	では、{当日|とうじつ}の{天気|てんき}も{調|しら}べたいです。	Then I'd also like to look up the weather for that day.	4300	6	
+そちらは、安めの予算で泊まれますでしょうか？	そちらは、{安|やす}めの{予算|よさん}で{泊|と}まれますでしょうか？	Can I stay there on a low budget?	4327	18	
+都筑区でよろしかったですか？	{都筑区|つづきく}でよろしかったですか？	Was it Tsuzuki Ward that you wanted?	4351	1	
+ではビジネスホテルにこだわらなくても大丈夫です。	ではビジネスホテルにこだわらなくても{大丈夫|だいじょうぶ}です。	Then it's fine if it isn't strictly a business hotel.	4446	2	
+そちらに頼みたいですが、念のために電話番号も教えてください。	そちらに{頼|たの}みたいですが、{念|ねん}のために{電話|でんわ}{番号|ばんごう}も{教|おし}えてください。	I'd like to ask them, but please tell me their phone number just in case.	4622	10	
+旅行したら飲食店にも行きたいんですよね。	{旅行|りょこう}したら{飲食店|いんしょくてん}にも{行|い}きたいんですよね。	When I travel, I want to go to restaurants too.	4625	4	
+では、ジャンボタクシーは利用しなくて大丈夫です。	では、ジャンボタクシーは{利用|りよう}しなくて{大丈夫|だいじょうぶ}です。	Then I'm fine without using a jumbo taxi.	4789	10	
+最寄り駅を上野幌駅にこだわらなかったらどうでしょうか。	{最寄|もよ}り{駅|えき}を{上野幌駅|かみのっぽろえき}にこだわらなかったらどうでしょうか。	What if I don't insist on Kami-Nopporo as the nearest station?	4913	2	
+ジャンボタクシーはこだわっていないです。	ジャンボタクシーはこだわっていないです。	I'm not particular about it being a jumbo taxi.	4926	10	

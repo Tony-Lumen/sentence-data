@@ -1,13 +1,14 @@
-# Japanese–English sentence pairs from Tatoeba and RealPersonaChat
+# Japanese–English sentence pairs from Tatoeba, RealPersonaChat, JMRD and JMultiWOZ
 
 A selection of Japanese sentences with English translations, published free of charge and without DRM: sentences
-from Tatoeba, and lines from the RealPersonaChat corpus of Japanese text chats.
+from Tatoeba, and lines from three corpora of Japanese text chats: RealPersonaChat, JMRD and JMultiWOZ.
 
 - Sources: Tatoeba (https://tatoeba.org), sentences written by the Tatoeba contributors named in each row; each
   sentence is at `https://tatoeba.org/en/sentences/show/<id>`. RealPersonaChat
-  (https://github.com/nu-dialogue/real-persona-chat), see `realpersonachat-subset.tsv` below.
+  (https://github.com/nu-dialogue/real-persona-chat), JMRD (https://github.com/ku-nlp/JMRD) and JMultiWOZ
+  (https://github.com/nu-dialogue/jmultiwoz), see their files below.
 - Licences: **CC BY 2.0 FR** (https://creativecommons.org/licenses/by/2.0/fr/) for the Tatoeba files, **CC BY-SA 4.0**
-  (https://creativecommons.org/licenses/by-sa/4.0/) for the RealPersonaChat file; see `LICENSE.md`.
+  (https://creativecommons.org/licenses/by-sa/4.0/) for the three chat files; see `LICENSE.md`.
 - Format: UTF-8, tab-separated, one sentence per line, with a header line.
 
 ## `tatoeba-subset.tsv`
@@ -45,10 +46,24 @@ chats by Sanae Yamashita, Koji Inoue, Ao Guo, Shota Mochizuki, Tatsuya Kawahara 
 - `changes` is `final 。 added` (or `final ？ added`) where the chat line had no final mark; the Japanese text is
   otherwise unchanged.
 
+## `jmrd-subset.tsv` and `jmultiwoz-subset.tsv`
+
+Lines from JMRD (https://github.com/ku-nlp/JMRD), the Japanese Movie Recommendation Dialogue dataset by Takashi
+Kodama, Ribeka Tanaka and Sadao Kurohashi, and from JMultiWOZ (https://github.com/nu-dialogue/jmultiwoz, v1.0), a
+corpus of travel-desk dialogues by Atsumoto Ohashi, Ryu Hirai, Shinya Iizuka and Ryuichiro Higashinaka, both under
+**CC BY-SA 4.0**. Columns as in `realpersonachat-subset.tsv`:
+`ja_text  ja_furigana  en_text  dialogue_id  utterance_id  changes`.
+
+- JMRD: `dialogue_id` is a dialogue's `dialog_id` in `data/{train,valid,test}.json`, `utterance_id` the number after
+  the underscore in its utterance's `utterance_id`. Only the crowdworkers' own words are in it: no sentence that
+  shares a stretch of twelve characters with the plot summaries and reviews the dialogue came with.
+- JMultiWOZ: `dialogue_id` is a dialogue's `dialogue_id` in `dialogues.json`, `utterance_id` its turn's `turn_id`.
+- `en_text`, `ja_furigana` and `changes` as in `realpersonachat-subset.tsv`.
+
 ## Notes
 
 **Your rights.** Whoever gets these sentences, from here or from an app that uses them, has the full rights of
-CC BY 2.0 FR (the Tatoeba files) or CC BY-SA 4.0 (the RealPersonaChat file). No app's terms of use or "all rights reserved" notice restricts them.
+CC BY 2.0 FR (the Tatoeba files) or CC BY-SA 4.0 (the RealPersonaChat, JMRD and JMultiWOZ files). No app's terms of use or "all rights reserved" notice restricts them.
 
 **What was changed.** The sentences were selected, a few readings corrected and some English translations newly
 written (the `changes` column), and some sentences rewritten (`tatoeba-adapted.tsv`). The Japanese texts in
@@ -56,4 +71,4 @@ written (the `changes` column), and some sentences rewritten (`tatoeba-adapted.t
 originals.
 
 **No endorsement.** This dataset is not affiliated with, sponsored or endorsed by Tatoeba or its contributors, or by
-the authors of RealPersonaChat.
+the authors of RealPersonaChat, JMRD or JMultiWOZ.

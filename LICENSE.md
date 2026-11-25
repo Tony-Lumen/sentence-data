@@ -17,3 +17,11 @@ https://creativecommons.org/licenses/by-sa/4.0/. The English translations and th
 written and are under the same licence; a final 。 or ？ was added where its `changes` column says so, and the
 Japanese is otherwise unchanged. You may copy, distribute and adapt them, including commercially, as long as you credit
 RealPersonaChat and its authors, say what you changed, and share your adaptations under CC BY-SA 4.0.
+
+`jmrd-subset.tsv` contains lines from JMRD (https://github.com/ku-nlp/JMRD) by Takashi Kodama, Ribeka Tanaka and
+Sadao Kurohashi, and `jmultiwoz-subset.tsv` lines from JMultiWOZ (https://github.com/nu-dialogue/jmultiwoz) by
+Atsumoto Ohashi, Ryu Hirai, Shinya Iizuka and Ryuichiro Higashinaka, both licensed under CC BY-SA 4.0:
+https://creativecommons.org/licenses/by-sa/4.0/. As for RealPersonaChat, the English translations and the furigana
+were newly written and are under the same licence, a final 。 or ？ was added where the `changes` column says so, and
+the Japanese is otherwise unchanged. You may copy, distribute and adapt them, including commercially, as long as you
+credit the corpus and its authors, say what you changed, and share your adaptations under CC BY-SA 4.0.
