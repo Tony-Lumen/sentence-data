@@ -9,3 +9,11 @@ Tatoeba and keep this licence notice. The Japanese texts in `tatoeba-subset.tsv`
 names a corrected reading or a newly written English translation. `tatoeba-adapted.tsv` holds sentences rewritten
 from the Tatoeba sentences its `from_ja_id` column names. The rewrites and the new translations are under the same
 licence.
+
+`realpersonachat-subset.tsv` contains lines from RealPersonaChat (https://github.com/nu-dialogue/real-persona-chat)
+by Sanae Yamashita, Koji Inoue, Ao Guo, Shota Mochizuki, Tatsuya Kawahara and Ryuichiro Higashinaka, licensed under
+the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0):
+https://creativecommons.org/licenses/by-sa/4.0/. The English translations and the furigana in that file were newly
+written and are under the same licence; a final 。 or ？ was added where its `changes` column says so, and the
+Japanese is otherwise unchanged. You may copy, distribute and adapt them, including commercially, as long as you credit
+RealPersonaChat and its authors, say what you changed, and share your adaptations under CC BY-SA 4.0.

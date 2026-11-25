@@ -1,11 +1,13 @@
-# Japanese–English sentence pairs from Tatoeba
+# Japanese–English sentence pairs from Tatoeba and RealPersonaChat
 
-A selection of Japanese sentences from Tatoeba with their English translations, published free of charge and
-without DRM.
+A selection of Japanese sentences with English translations, published free of charge and without DRM: sentences
+from Tatoeba, and lines from the RealPersonaChat corpus of Japanese text chats.
 
-- Source: Tatoeba (https://tatoeba.org), sentences written by the Tatoeba contributors named in each row. Each
-  sentence is at `https://tatoeba.org/en/sentences/show/<id>`.
-- Licence: **CC BY 2.0 FR** (https://creativecommons.org/licenses/by/2.0/fr/), see `LICENSE.md`.
+- Sources: Tatoeba (https://tatoeba.org), sentences written by the Tatoeba contributors named in each row; each
+  sentence is at `https://tatoeba.org/en/sentences/show/<id>`. RealPersonaChat
+  (https://github.com/nu-dialogue/real-persona-chat), see `realpersonachat-subset.tsv` below.
+- Licences: **CC BY 2.0 FR** (https://creativecommons.org/licenses/by/2.0/fr/) for the Tatoeba files, **CC BY-SA 4.0**
+  (https://creativecommons.org/licenses/by-sa/4.0/) for the RealPersonaChat file; see `LICENSE.md`.
 - Format: UTF-8, tab-separated, one sentence per line, with a header line.
 
 ## `tatoeba-subset.tsv`
@@ -30,14 +32,28 @@ In a rewrite, one verb or adjective of the Tatoeba sentence was put into another
 adjusted to fit, and the English was newly written. `from_ja_id` and `from_en_id` are the Tatoeba sentence and
 translation it started from, which are in `tatoeba-subset.tsv` with their authors.
 
+## `realpersonachat-subset.tsv`
+
+Lines from RealPersonaChat (https://github.com/nu-dialogue/real-persona-chat, v1.0.0), a corpus of Japanese text
+chats by Sanae Yamashita, Koji Inoue, Ao Guo, Shota Mochizuki, Tatsuya Kawahara and Ryuichiro Higashinaka, under
+**CC BY-SA 4.0** (https://creativecommons.org/licenses/by-sa/4.0/). Columns:
+`ja_text  ja_furigana  en_text  dialogue_id  utterance_id  changes`.
+
+- Each line is one sentence of the utterance `utterance_id` in `real_persona_chat/dialogues/<dialogue_id>.json`
+  (the id padded to five digits).
+- `en_text` and `ja_furigana` were newly written for this selection. They are under CC BY-SA 4.0 too.
+- `changes` is `final 。 added` (or `final ？ added`) where the chat line had no final mark; the Japanese text is
+  otherwise unchanged.
+
 ## Notes
 
 **Your rights.** Whoever gets these sentences, from here or from an app that uses them, has the full rights of
-CC BY 2.0 FR. No app's terms of use or "all rights reserved" notice restricts them.
+CC BY 2.0 FR (the Tatoeba files) or CC BY-SA 4.0 (the RealPersonaChat file). No app's terms of use or "all rights reserved" notice restricts them.
 
 **What was changed.** The sentences were selected, a few readings corrected and some English translations newly
 written (the `changes` column), and some sentences rewritten (`tatoeba-adapted.tsv`). The Japanese texts in
 `tatoeba-subset.tsv` are unchanged. The rewrites and the new translations are under the same licence as the
 originals.
 
-**No endorsement.** This dataset is not affiliated with, sponsored or endorsed by Tatoeba or its contributors.
+**No endorsement.** This dataset is not affiliated with, sponsored or endorsed by Tatoeba or its contributors, or by
+the authors of RealPersonaChat.
